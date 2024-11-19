@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFlo-GG
-- 👀 I’m interested in XIV, Gaming, and Sharepoint
-- 🌱 I’m currently learning to understand C++ and develop games. Wouldn't mind enjoying some tricks with JSON for Sharepoint
+- 👀 I’m interested in Sharepoint/Web Design & O365 Administration in all admin centers. 
+- 🌱 I’m currently learning to understand C++ and develop games.
 - 📫 How to reach me: Maybe later :D
 
 <!---
