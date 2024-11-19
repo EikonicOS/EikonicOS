@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B0XB0XB0X
+- 👋 Hi, I’m @GFlo-GG
 - 👀 I’m interested in XIV, Gaming, and Sharepoint
 - 🌱 I’m currently learning to understand C++ and develop games. Wouldn't mind enjoying some tricks with JSON for Sharepoint
 - 📫 How to reach me: Maybe later :D
